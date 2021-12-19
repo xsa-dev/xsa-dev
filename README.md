@@ -5,7 +5,7 @@
 # my certificates
 ## otus
 <img src='otus_devops_java_2021.png'>
-## sololearn
-## programming hub
+<h2>sololearn</h2>
+<h2>programming hub</h2>
 <h1>top images</h1>
 <img src="https://i.imgur.com/49FNOHj.jpg" style='width: 80%'>
