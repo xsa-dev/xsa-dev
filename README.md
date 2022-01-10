@@ -6,7 +6,9 @@
 ## otus: devops
 <a href='https://otus.ru/certificate/36a8f0f7af7b4d98948c27534b33722b/'><img src='tumbnais/otus_devops_java_2021.png' style='width: 40%'></a>
 <a href='https://otus.ru/certificate/003678efb51b4c6b95570f38793b3ae5/'><img src='tumbnais/otus_devops_gitlab_2021.png' style='width: 40%'></a>
+<h2>udemy</h2>
 <h2>sololearn</h2>
 <h2>programming hub</h2>
 <h1>top images</h1>
 <img src="https://i.imgur.com/49FNOHj.jpg" style='width: 80%'>
+<img src="https://raw.githubusercontent.com/dibyendu415/dibyendu415/master/marquee.svg"/>
