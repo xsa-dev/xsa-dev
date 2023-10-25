@@ -1,1 +1,1 @@
-<h3><a href="https://alekseysavin.com">alekseysavin.com</a></h>
+<img src="https://codeium.com/profile/alxy-sci-dev/card.png" alt="codeium profile" width="50%"/>
