@@ -32,7 +32,7 @@ Alexey Savin &lt;saleksey67@gmail.com&gt;, &lt;i@crypto-alxy-7.ru&gt;
 - [in dev progress](https://solscan.io/tx/5uLg3LyeRDAAKFbSXxRewn5AzmM8CsErnuXBvjBS6VC42A78cT4M96zFUBzTGygjUjA5zPwttaM8iwAxVq3TvEcR?cluster=devnet)
 
 ### TON
-- in progress
+- [in progress](https://tonsandbox.com/explorer/address/kQDUe600N-kN8bYgFMstDeyL5yWvjx05k-9QFP4n2iDVWdSz)
 
 ## AI
 <svg xmlns="http://www.w3.org/2000/svg" width="50%" viewBox="0 0 558 408">
