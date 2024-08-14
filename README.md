@@ -44,9 +44,7 @@ My GitLab: https://gitlab.com/xsa-dev
 </g>
 </svg>
 
-## My Favorite Languages | Coding Assistant
-<img src="https://codeium.com/profile/alxy-sci-dev/card.png" alt="codeium profile" width="50%"/>
-
-#Python #Rust #JavaScript #bun #CSHARP #CPP #Java #Php etc.
-#Ract #Vue #FLET etc.
-#Keras #Tensorflow #Torch #Machinelearning etc.
+#Python #Rust #TS #Cpp #Java #Php & etc.
+#Solana #Solidity #TON & etc.
+#Ract #Vue #Flet & etc.
+#Keras #Tensorflow #Torch #Machinelearning #Datascience & etc.
