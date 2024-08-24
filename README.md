@@ -31,6 +31,7 @@ My GitLab: https://gitlab.com/xsa-dev
 - Private: - Private: Competence Check Module - storing _skill token_ in Hyperlager via _go rest gateway_ - storing <i>skill token</i> in Hyperlager via <i>go rest gateway</i>
 
 ### SOLANA
+- [SWAP](https://t.me/bondexbot)
 - [in dev progress](https://solscan.io/tx/5uLg3LyeRDAAKFbSXxRewn5AzmM8CsErnuXBvjBS6VC42A78cT4M96zFUBzTGygjUjA5zPwttaM8iwAxVq3TvEcR?cluster=devnet)
 
 ### TON
