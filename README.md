@@ -7,6 +7,7 @@ My GitLab: https://gitlab.com/xsa-dev
 Site: [https://alxy.site](https://alxy.site)
 
 [![wakatime](https://wakatime.com/badge/user/90c47d91-7105-492d-abab-e04830b3dc81.svg)](https://wakatime.com/@90c47d91-7105-492d-abab-e04830b3dc81)
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
 ## Public Wallets:
 
