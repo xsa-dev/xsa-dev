@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 
 ## 📫 How to reach me
-- **Email**: ```xsa.dev@proton.me```
+- **Email**: ```alxy-dev.dodge778@passinbox.com```
 - **LinkedIn**: [xsa-dev](https://linkedin.com/in/alxy-dev)
 - **Twitter**: [@xsa_dev](https://twitter.com/alxy_x)
 
