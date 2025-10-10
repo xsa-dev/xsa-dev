@@ -1,4 +1,7 @@
 # Hi there, I'm xsa-dev 👋
+<a href="https://github.com/xsa-dev">
+  <img height="20" src="https://komarev.com/ghpvc/?username=xsa-dev" />
+</a>
 
 Welcome to my GitHub profile! I'm a passionate developer with a knack for problem-solving and a love for learning new technologies. Here's a little about me and what I do:
 
