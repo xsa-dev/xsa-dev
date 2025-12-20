@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 
 ## 📫 How to reach me
-- **Email**: ```alxy-dev.dodge778@passinbox.com```
-- **LinkedIn**: [xsa-dev](https://linkedin.com/in/alxy-dev)
+- **LinkedIn**: [alxy-dev](https://linkedin.com/in/alxy-dev)
 - **Twitter**: [@xsa_dev](https://twitter.com/alxy_x)
+- **Telegram** [@xsa-dev](https://t.me/xsa_dev))
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
