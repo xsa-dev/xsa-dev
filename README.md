@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 ## 📫 How to reach me
 - **LinkedIn**: [alxy-dev](https://linkedin.com/in/alxy-dev)
 - **Twitter**: [@xsa_dev](https://twitter.com/alxy_x)
-- **Telegram** [@xsa-dev](https://t.me/xsa_dev))
+- **Telegram** [@xsa-dev](https://t.me/xsa_dev)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
