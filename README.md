@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 
 ## 📫 How to reach me
+- **Blog**: [xsa-dev.github.io](https://xsa-dev.github.io/)
 - **LinkedIn**: [alxy-dev](https://linkedin.com/in/alxy-dev)
 - **Twitter**: [@xsa_dev](https://twitter.com/alxy_x)
 - **Telegram** [@xsa-dev](https://t.me/xsa_dev)
@@ -36,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 - [TradeFlow: What's coming up?](https://www.bulbapp.io/p/09a24d63-fa32-4635-9361-07d042eb0004/tradeflow-whats-coming-up)
 - [What is Reinforcement Learning? How Does Reinforcement Learning Work?](https://www.bulbapp.io/p/6f7920fe-f8e1-40fb-9de3-466f38cdc41a/what-is-reinforcement-learning-how-does-reinforcement-learning-work)
 - [Transitioning to Solana: Understanding Creating CPIs for Smart Contracts](https://www.bulbapp.io/p/9222be8c-526a-4967-82bb-b48c0acf3a94/transitioning-to-solana-understanding-creating-cpis-for-smart-contracts)
-- [Why Solana?](https://www.bulbapp.io/p/8fdc0a6c-485f-4ae1-a88d-22489fe2ad4b/why-solana)
+- [Why Solana?](https://www.bulbapp.io/p/8fdc0a6c-485f-4ae1-a88-22489fe2ad4/why-solana)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
